@@ -17,3 +17,16 @@ h2 {
 img{
     width: 100%;
 }
+
+footer {
+    margin-top: 50px;
+    background-color: slategray;
+    color: whitesmoke
+}
+
+footer p {
+    text-align: right;
+    margin-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
